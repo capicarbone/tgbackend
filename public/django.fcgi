@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-venv = ‘/home/tusalud/.virtualenvs/mongodbenv/bin/activate_this.py’
+venv = '/home/tusalud/.virtualenvs/mongodbenv/bin/activate_this.py'
 execfile(venv, dict(__file__=venv))
 
 import os, sys
